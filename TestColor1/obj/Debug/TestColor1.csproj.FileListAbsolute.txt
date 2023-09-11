@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive\DSH\Doron\sources\repos\TestColor1\TestColor1\obj\Debug\TestColor1.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\DSH\Doron\sources\repos\TestColor1\TestColor1\obj\Debug\TestColor1.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\OneDrive\DSH\Doron\sources\repos\TestColor1\TestColor1\obj\Debug\MainWindow.g.cs
+C:\Users\USER\OneDrive\DSH\Doron\sources\repos\TestColor1\TestColor1\obj\Debug\App.g.cs
+C:\Users\USER\OneDrive\DSH\Doron\sources\repos\TestColor1\TestColor1\obj\Debug\TestColor1_MarkupCompile.cache
+C:\Users\USER\OneDrive\DSH\Doron\sources\repos\TestColor1\TestColor1\obj\Debug\TestColor1_MarkupCompile.lref
+C:\Users\USER\OneDrive\DSH\Doron\sources\repos\TestColor1\TestColor1\bin\Debug\TestColor1.exe.config
+C:\Users\USER\OneDrive\DSH\Doron\sources\repos\TestColor1\TestColor1\bin\Debug\TestColor1.exe
+C:\Users\USER\OneDrive\DSH\Doron\sources\repos\TestColor1\TestColor1\bin\Debug\TestColor1.pdb
+C:\Users\USER\OneDrive\DSH\Doron\sources\repos\TestColor1\TestColor1\obj\Debug\MainWindow.baml
+C:\Users\USER\OneDrive\DSH\Doron\sources\repos\TestColor1\TestColor1\obj\Debug\TestColor1.g.resources
+C:\Users\USER\OneDrive\DSH\Doron\sources\repos\TestColor1\TestColor1\obj\Debug\TestColor1.Properties.Resources.resources
+C:\Users\USER\OneDrive\DSH\Doron\sources\repos\TestColor1\TestColor1\obj\Debug\TestColor1.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\DSH\Doron\sources\repos\TestColor1\TestColor1\obj\Debug\TestColor1.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\DSH\Doron\sources\repos\TestColor1\TestColor1\obj\Debug\TestColor1.exe
+C:\Users\USER\OneDrive\DSH\Doron\sources\repos\TestColor1\TestColor1\obj\Debug\TestColor1.pdb
